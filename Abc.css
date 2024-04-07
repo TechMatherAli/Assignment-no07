@@ -1,0 +1,128 @@
+.navbar{
+
+    margin-left: 50px;
+}
+.img6{
+        position: relative;
+    top: -5px;
+}
+.img7{
+    position: relative;
+left: 170px;
+}
+.img8{
+    position: relative;
+top: -7px;
+left: 190px;
+}
+.button{
+    border-radius: 5px;
+    background-color: rgb(226, 87, 87);
+      color: white;
+    height: 30px;
+    width: 130px;
+    box-shadow: rgb(226, 87, 87);
+    border-color: rgb(226, 87, 87);
+position: absolute;
+top: 25px;
+right: 50px;
+}
+.onew{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    margin-left: 60px;
+    margin-top: 150px;
+    margin-bottom: 0px;
+}
+.img9{
+  position: absolute;
+  right: 10px;
+  top: 180px;
+  
+}
+.Were{
+    font-size: 17px;
+  color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 60px;
+    margin-top: 3px;
+}
+.button2{
+    border-radius: 5px;
+    background-color: rgb(226, 87, 87);
+      color: white;
+    height: 30px;
+    width: 130px;
+    margin-left: 60px;
+    box-shadow: rgb(226, 87, 87);
+    border-color: rgb(226, 87, 87);
+}
+.Trust{
+    margin-left: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: grey;
+    margin-bottom: 5px;
+}
+.img16{
+position: relative;
+margin-bottom: 50px;
+}
+.built{
+    font-size: 40px;
+    margin-top: 60px;
+    margin-left: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.notion{
+    color: grey;
+    margin-top: -15px;
+    margin-left: 60px; 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+.img23{
+    position: absolute;
+   top: 2730px;
+    right: 150px;
+}
+.start{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 60px;
+}
+.choose
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 60px;   
+    margin-top: -10px;
+    color: grey;
+}
+.img26{
+    width: 400px;
+    position: absolute;
+    right: 80px;
+    top: 3620px;
+}
+.img27{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.img30{
+    position: absolute;
+    right: 30px;
+    top: 4320px;
+}
+
+.button3{
+    border-radius: 5px;
+    background-color: rgb(226, 87, 87);
+      color: white;
+    height: 30px;
+    width: 150px;
+    box-shadow: rgb(226, 87, 87);
+    border-color: rgb(226, 87, 87);
+}
+.img0{
+    position: absolute;
+top: 5680px;
+
+}
